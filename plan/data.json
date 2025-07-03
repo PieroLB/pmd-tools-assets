@@ -429,5 +429,19 @@
         {"nom":"Bussy-Saint-Georges"},
         {"nom":"Val d'Europe"},
         {"nom":"Marne-la-Vallée Chessy", "lieuTouristique":"Parcs Disneyland"}
+    ]},
+    "102":{"color":"#588ED2", "stations":[
+        {"nom":"Bourg-la-Reine"},
+        {"nome":"Bagneux"},
+        {"nom":"Arcueil-Cachan"},
+        {"nom":"Laplace"},
+        {"nom":"Gentilly"},
+        {"nom":"Cité Universitaire", "correspondances":["T3b"]},
+        {"nom":"Denfert-Rochereau", "correspondances":["4", "6]},
+        {"nom":"Port-Royal",},
+        {"nom":"Luxembourg"},
+        {"nom":"Saint-Michel - Notre Dame", "correspondances":["C", "10"]},
+        {"nom":"Châtelet - les Halles", "correspondances":["A", "D", "1", "4", "7", "11", "14"]},
+        {"nom":"Gare du Nord", "correspondances":["D", "E", "H", "K", "2", "4", "5"]}
     ]}
 }
